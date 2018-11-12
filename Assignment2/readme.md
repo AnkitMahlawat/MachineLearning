@@ -1,2 +1,2 @@
 # Objective Image Quality Assessment Based on Support Vector Regression
-implemented code for Narwaria.pdf IEEE transaction paper
+Implemented code for Narwaria2010.pdf IEEE transaction paper
