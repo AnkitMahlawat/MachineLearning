@@ -1,0 +1,47 @@
+1st Round:
+avg plcc logistic regression: 0.9418343745181632
+avg plcc neural network: 0.9514316358270147
+avg plcc SVR: 0.9660889606695664
+2nd Round:
+avg plcc logistic regression: 0.9404198803352392
+avg plcc neural network: 0.955112557102306
+avg plcc SVR: 0.9649484277360768
+Third Round:
+avg plcc logistic regression: 0.9445766333205862
+avg plcc neural network: 0.9542728932446776
+avg plcc SVR: 0.9660131004013879
+Fourth Round:
+avg plcc logistic regression: 0.9515037215065828
+avg plcc neural network: 0.9534279657689437
+avg plcc SVR: 0.9684857828248574
+Fifth Round:
+avg plcc logistic regression: 0.9486413051867274
+avg plcc neural network: 0.9576299516721836
+avg plcc SVR: 0.9652686031425943
+Sixth Round:
+avg plcc logistic regression: 0.9252338353479856
+avg plcc neural network: 0.9552955578425802
+avg plcc SVR: 0.9625742279102921
+Seventh Round:
+avg plcc logistic regression: 0.950751885943597
+avg plcc neural network: 0.9563669400197454
+avg plcc SVR: 0.9650503387376956
+Eighth Round:
+avg plcc logistic regression: 0.9519507932983997
+avg plcc neural network: 0.957058739859556
+avg plcc SVR: 0.9632084219798058
+Nineth Round:
+avg plcc logistic regression: 0.9426261839081587
+avg plcc neural network: 0.9555477062363131
+avg plcc SVR: 0.9659138506980758
+Last Round:
+avg plcc logistic regression: 0.9467555752930856
+avg plcc neural network: 0.9573637833152085
+avg plcc SVR: 0.9684549455498199
+
+Mean plcc logistic regression:0.9444294188658526
+Mean plcc neural network:0.9553507730888531
+Mean plcc SVR:0.9656006659650171
+
+Here every round is 5-fold cross validation with 80-20 train-test data split
+avg plcc means avg of plcc over 5 iteration of cross validation part

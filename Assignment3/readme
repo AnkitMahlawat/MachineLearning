@@ -1,0 +1,3 @@
+I have saved my feature matrix to feature.npy file
+SS.npy contain subjective scores and roundoff.npy contain rounded values of subjective score.
+
